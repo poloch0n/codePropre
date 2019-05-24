@@ -4,7 +4,7 @@ package ex1;
  * Classe qui réalise des opérations arythmétiques
  * @author DIGINAMIC
  */
-public class calcul {
+public class Calcul {
 
 	/** Méthode qui retourne l'addition des paramètres a et b 
 	 * 
